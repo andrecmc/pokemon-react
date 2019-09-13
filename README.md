@@ -1,3 +1,13 @@
+## I want to see it running...
+
+git clone https://github.com/andrecmc/pokemon-react.git
+
+npm install
+
+npm start
+
+## Introduction
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
